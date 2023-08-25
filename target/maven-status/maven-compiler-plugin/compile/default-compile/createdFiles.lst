@@ -1,0 +1,5 @@
+com\soumya\quizapp\controllers\QuestionController.class
+com\soumya\quizapp\services\QuestionService.class
+com\soumya\quizapp\Repositories\QuestionRepository.class
+com\soumya\quizapp\QuizappApplication.class
+com\soumya\quizapp\models\Question.class
